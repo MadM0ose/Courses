@@ -11,6 +11,12 @@ function splitAndPush () {
     return concLetters
 }
 
+function typeOfData (data) {
+    var date = new Date(2019, 12, 19);
+    data = prompt ("Введите что-то")
+    var type = data === Number () ? console.log (date) : console.log ("Неверный тип данных")
+}
+
 
 
 
