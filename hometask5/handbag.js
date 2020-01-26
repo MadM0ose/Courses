@@ -11,10 +11,7 @@ Things.prototype.removeThingsFromAHandbag = function (thing) {
 }
 
 
-
-
-
-
+//////////////////////////////////////////////
 
 
 
